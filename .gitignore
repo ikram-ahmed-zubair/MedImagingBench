@@ -34,3 +34,4 @@ checkpoints/
 *.nii.gz
 *.dcm
 *.dicom
+/scripts/oracleJdk-27/

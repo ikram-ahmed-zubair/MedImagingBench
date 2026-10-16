@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Data and generated artifacts — store elsewhere; document how to obtain them
+data/
+data/
+raw_data/
+private_data/
+outputs/
+results/
+checkpoints/
+*.nii
+*.nii.gz
+*.dcm
+*.dicom

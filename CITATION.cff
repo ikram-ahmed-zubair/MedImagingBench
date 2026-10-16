@@ -1,0 +1,5 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the repository and any associated publication. Replace this template with accurate author and release metadata before publishing."
+title: "Project name"
+version: 0.1.0
+# TODO before release: add authors, date-released, repository-code, and a licence.

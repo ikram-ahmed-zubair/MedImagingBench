@@ -1,0 +1,5 @@
+# Keep experiment settings in a checked-in config rather than hardcoding them.
+experiment:
+  name: reproducible-demo
+  seed: 42
+  output_dir: outputs/demo

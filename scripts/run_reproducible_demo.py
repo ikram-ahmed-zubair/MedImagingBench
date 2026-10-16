@@ -1,4 +1,5 @@
 """A tiny deterministic run that demonstrates config + metadata capture."""
+
 from __future__ import annotations
 
 import argparse

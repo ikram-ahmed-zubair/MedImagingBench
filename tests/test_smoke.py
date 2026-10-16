@@ -1,4 +1,8 @@
-def test_package_imports() -> None:
-    import project_name
+"""Smoke tests for the medbench package."""
 
-    assert project_name.__version__ == "0.1.0"
+import medbench
+
+
+def test_package_version() -> None:
+    """Verify that the package exposes its expected version."""
+    assert medbench.__version__ == "0.1.0"
